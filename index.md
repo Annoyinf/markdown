@@ -13,6 +13,9 @@ int main(){
 }
 ```
 
+- [x] Get Homework Done
+- [ ] Finish tutorial
+- [ ] start coding
 
 Added headers to index.md
 
